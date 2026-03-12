@@ -5,7 +5,7 @@
 ## 📝 Project Overview
 This project demonstrates how business intelligence dashboards can actively monitor company sales performance, identify growth opportunities, and track profitability. Using the classic Superstore Sales dataset, this interactive Power BI report provides high-level executive summaries alongside deep-dive regional and categorical analytics.
 
-![Dashboard Preview](Dashboard%20Sales%20Preview.png)
+![Dashboard Preview](https://github.com/peteo0098/powerbi-sales-dashboard/blob/main/sales-performance-dashboard.png)
 
 ## Business Questions Answered
 The dashboard was engineered to provide immediate answers to critical business questions:
@@ -21,7 +21,7 @@ The dashboard was engineered to provide immediate answers to critical business q
 3. **Geographic Dominance:** The **West Region** ($725K) and **East Region** ($679K) form the backbone of the company's sales. Specifically, the states of **California ($458K)** and **New York ($311K)** vastly outperform the rest of the country.
 4. **Sales Trends:** There is a clear seasonal trend, with massive revenue spikes occurring consistently in the fourth quarter (Q4) of every year.
 
-![Geographic Analysis](Geographic%20Analysis.png)
+![Geographic Analysis](https://github.com/peteo0098/powerbi-sales-dashboard/blob/main/sales-geographic-analysis.png)
 
 ##  Tools & Technical Stack
 * **Tool:** Power BI Desktop
